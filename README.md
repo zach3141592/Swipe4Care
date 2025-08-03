@@ -1,14 +1,6 @@
-# Swipe4Care 🏥❤️
+# Swipe4Care
 
 A modern app to discover healthcare and clinical trial volunteer opportunities with an intuitive swipe interface. Built with React, Node.js, and powered by Google's Gemini AI for intelligent opportunity discovery.
-
-## Features ✨
-
-- **🔍 Smart Discovery**: AI-powered scraping of healthcare opportunities using Gemini API
-- **👆 Intuitive Interface**: Swipe left to pass, swipe right to save opportunities
-- **❤️ Save for Later**: Keep track of opportunities you're interested in
-- **🎨 Modern Design**: Clean black and white UI optimized for mobile and desktop
-- **📱 Responsive**: Works seamlessly across all device sizes
 
 ## Tech Stack 🛠️
 
@@ -26,7 +18,7 @@ A modern app to discover healthcare and clinical trial volunteer opportunities w
 - Google Gemini AI API
 - CORS enabled
 
-## Quick Start 🚀
+## Quick Start
 
 ### Prerequisites
 
@@ -102,7 +94,7 @@ Swipe4Care/
 - `npm run install-all` - Install dependencies for both frontend and backend
 - `npm run build` - Build the frontend for production
 
-## Customization 🎨
+## Customization
 
 ### Adding New Opportunity Sources
 
@@ -122,7 +114,7 @@ The SQLite database has two main tables:
 - `opportunities` - Store opportunity details
 - `swipes` - Track user interactions
 
-## Contributing 🤝
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -130,21 +122,15 @@ The SQLite database has two main tables:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Security & Environment 🔒
-
-The app is configured with a working Gemini API key for immediate use. The setup includes:
-
-- `.env` - Contains the actual API key (excluded from Git)
-- `.env.example` - Template file with placeholder values (included in Git)
-- `.gitignore` - Ensures sensitive files stay local
+## Security & Environment
 
 If you want to use your own API key, simply edit the `.env` file.
 
-## Support 💬
+## Support
 
 If you encounter any issues or have questions:
 
@@ -154,5 +140,3 @@ If you encounter any issues or have questions:
 4. Create an issue on GitHub with details
 
 ---
-
-**Made with ❤️ for the healthcare community**
