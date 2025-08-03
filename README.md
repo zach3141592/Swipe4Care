@@ -2,7 +2,7 @@
 
 A modern app to discover healthcare and clinical trial volunteer opportunities with an intuitive swipe interface. Built with React, Node.js, and powered by Google's Gemini AI for intelligent opportunity discovery.
 
-## Tech Stack 🛠️
+## Tech Stack
 
 **Frontend:**
 
@@ -53,21 +53,21 @@ A modern app to discover healthcare and clinical trial volunteer opportunities w
 
    > ✅ **All issues fixed!** The app is fully functional with Gemini 1.5 Flash API and clean TypeScript compilation.
 
-## How It Works 🔄
+## How It Works
 
 1. **Opportunity Discovery**: The app uses Gemini AI to generate and discover realistic healthcare and clinical trial opportunities
 2. **Swipe Interface**: Users can swipe right to save opportunities they're interested in, or swipe left to pass
 3. **Persistent Storage**: All interactions are saved to a local SQLite database
 4. **View Saved**: Users can view all their liked opportunities with direct links to apply
 
-## API Endpoints 📡
+## API Endpoints
 
 - `GET /api/opportunities` - Get unswiped opportunities for a user
 - `POST /api/swipe` - Record a swipe interaction
 - `POST /api/scrape` - Trigger discovery of new opportunities
 - `GET /api/liked` - Get all liked opportunities for a user
 
-## Project Structure 📁
+## Project Structure
 
 ```
 Swipe4Care/
@@ -86,7 +86,7 @@ Swipe4Care/
 └── README.md
 ```
 
-## Available Scripts 📝
+## Available Scripts
 
 - `npm run dev` - Start both frontend and backend in development mode
 - `npm run server` - Start only the backend server
