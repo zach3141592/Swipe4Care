@@ -2,6 +2,8 @@
 
 A modern app to discover healthcare and clinical trial volunteer opportunities with an intuitive swipe interface. Built with React, Node.js, and powered by Google's Gemini AI for intelligent opportunity discovery.
 
+Demo: https://www.youtube.com/watch?v=2RFJAIPhFiw&t=1s
+
 ## Tech Stack
 
 **Frontend:**
