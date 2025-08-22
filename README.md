@@ -124,13 +124,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you want to use your own API key, simply edit the `.env` file.
 
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the console logs for error messages
-2. Ensure your Gemini API key is correctly set
-3. Verify all dependencies are installed
-4. Create an issue on GitHub with details
-
 ---
